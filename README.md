@@ -32,4 +32,4 @@
 
  ##
  
-  ![Snake animation](https://github.com/LeonardoStuani/LeonardoStuani/blob/output/github-contribution-grid-snake.svg)
+
